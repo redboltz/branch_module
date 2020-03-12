@@ -1,2 +1,1 @@
-# branch_module
-test for branches as different modules
+# This is C++ library page
